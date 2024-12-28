@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-family: calibri;
+}
+
+main {
+    background-color: #FF4500;
+}
+
+body {
+    background-color: #FF4500;  
+}
+
+html {
+   font-family: calibri; 
+   background-color: #FF4500;
+}
+
+header {
+    background-color: gold;
+    border: 1px gold solid;
+    border-radius: 10px;
+}
+
+header a {
+    color: #800000;
+    text-decoration: none;
+    font-size: 19px;
+    margin-left: 150px;
+}
+
+
+img {
+    border: #FF4500 1px solid;
+    border-radius: 10px;
+    width: 350px;
+}
+
+.img1 {
+    width: 600px;
+}
+
+footer {
+    background-color: gold;
+    border: 1px gold solid;
+    border-radius: 10px;
+    padding-left: 50px;
+}
+
